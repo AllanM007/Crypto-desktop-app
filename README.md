@@ -1,2 +1,2 @@
 # Crypto-desktop-app
-This is a cyptocurrency portfolio desktop application designed using coinmarket's API that displays your portfolio of coins,their current price,profit/loss per coin and total portfolio worth.
+This is a cyptocurrency portfolio desktop application designed using python 3 and coinmarket's API that displays a giiven user's portfolio of coins,their current price,profit/loss per coin and total portfolio worth.
